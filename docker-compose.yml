@@ -1,6 +1,0 @@
-version: '3'
-services:
-  foundationdb:
-    image: foundationdb/foundationdb:latest
-    ports:
-        - "4500:4500"
